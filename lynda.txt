@@ -1,0 +1,9 @@
+TLOCAL HOS
+A.THIS IS THE PHPMYADMIN PAGE ON CHROME
+http://localhost/phpmyadmin/#PMAURL-49:index.php?db=&table=&server=1&target=&token=ab5b844153f79c08efa60edcfeb87d97
+B.THIS IS HARIPRASATH P PROJ ENG UV MNC AND CALLED ONLINE LOGIN APPN UDEMY
+file:///C:/Users/playtime38/Desktop/tutorial1.html
+C.THIS IS THE FILE PUT INTO EXAMPLES  FOLDER UNDER HTDOCS XAMPP
+http://localhost/example/test.php
+D.THIS IS THE CHROME BROWSER FROM CLOUD9
+https://console.aws.amazon.com/cloud9/home?region=us-east-1#
